@@ -1,17 +1,18 @@
-<h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h2>Projeto Dio: - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
-Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
+Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização, até o Deploy na nuvem (Heroku). Pratique e veja os principais conceitos do estilo arquitetural REST envolvidos durante o desenvolvimento do projeto.
 
-Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
+Neste desafio, você irá aprender ao mesmo tempo que desenvolve algo prático para o seu portfólio! Sendo assim, você usará as seguintes ferramentas:
 
-* Setup inicial de projeto com o Spring Boot Initialzr 
-* Criação de modelo de dados para o mapeamento de entidades em bancos de dados
-* Desenvolvimento de operações de gerenciamento de usuários (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
-* Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
-* Desenvolvimento de testes unitários para validação das funcionalidades
-* Implantação do sistema na nuvem através do Heroku
-
-Para executar o projeto no terminal, digite o seguinte comando:
+Estilo arquitetural REST;
+Spring Boot Framework;
+Spring Data;
+MapStruct;
+Spring Test;
+Postman;
+Sprint Test;
+Deploy no heroku.
+Dica: você pode dar um "fork" no repositório para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
 
 ```shell script
 mvn spring-boot:run 
